@@ -1,0 +1,8 @@
+#Source Hashes
+#Mon Apr 02 21:56:05 CDT 2012
+src/main/scala/code/snippet/HelloWorld.scala=98131f1931048178ef1e6ba126cebd120e58244a
+src/main/scala/code/comet/LinkClient.scala=a5129d85e939208aa4e44fcf367a3af4dcb432fe
+src/main/scala/bootstrap/liftweb/Boot.scala=89069340a07d18085587a93198165f984e3296d3
+src/main/scala/code/lib/DependencyFactory.scala=e5d94ad2d69afe24876734d3cc8549a5f3a7c7fd
+src/main/scala/code/comet/LinkServer.scala=db15c37ae474eaad8dd7e1c5f5a796e0298b352c
+src/main/scala/code/snippet/SubmitLink.scala=bf047085eda1bba1bcb28c94ac1617631ee8d61f

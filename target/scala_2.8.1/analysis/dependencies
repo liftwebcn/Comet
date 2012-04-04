@@ -1,0 +1,8 @@
+#Source Dependencies
+#Mon Apr 02 21:56:05 CDT 2012
+src/main/scala/code/snippet/HelloWorld.scala=
+src/main/scala/code/comet/LinkClient.scala=
+src/main/scala/bootstrap/liftweb/Boot.scala=
+src/main/scala/code/lib/DependencyFactory.scala=src/main/scala/code/snippet/HelloWorld.scala
+src/main/scala/code/comet/LinkServer.scala=src/main/scala/code/snippet/SubmitLink.scala\:src/main/scala/code/comet/LinkClient.scala
+src/main/scala/code/snippet/SubmitLink.scala=
